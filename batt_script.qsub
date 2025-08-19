@@ -1,0 +1,14 @@
+#!/bin/sh
+#PBS -N A2_MOF_Li2CO3 COv7_2_relaxed
+#PBS -q full
+#PBS -l nodes=4:ppn=24:full
+
+EXE="/usr/local/vasp-5.4.4/bin_vtst_i19_impi_noscal/vasp_std"
+
+NUMBER=`cat $PBS_NODEFILE | wc -l`
+
+cd $PBS_O_WORKDIR
+
+mpirun -machinefile $PBS_NODEFILE -np $NUMBER $EXE >& out.txt
+
+exit 0

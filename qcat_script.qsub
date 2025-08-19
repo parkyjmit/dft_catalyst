@@ -1,0 +1,14 @@
+#!/bin/sh
+#PBS -N A0_MOF_pristine
+#PBS -q full
+#PBS -l nodes=1:ppn=24:full
+
+EXE="/usr/local/vasp-5.4.4/bin_vtst_VASPsol_i19_impi/vasp_std"
+
+NUMBER=`cat $PBS_NODEFILE | wc -l`
+
+cd $A0_MOF_pristine
+
+mpirun -machinefile $PBS_NODEFILE -np $NUMBER $EXE >& out.txt
+
+exit 0
