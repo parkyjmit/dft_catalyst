@@ -1,0 +1,16 @@
+# VASP output files
+CHG
+CHGCAR
+OUTCAR
+XDATCAR
+vasprun.xml
+
+# 토큰 영수증 같은 로그성 파일
+*.token_receipt.*
+
+# 혹시 대문자/소문자 혼합 폴더 대비
+[chC]*/*.token_receipt.*
+
+# 기타 불필요한 중간 결과
+*.xml
+
