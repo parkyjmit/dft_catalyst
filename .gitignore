@@ -1,7 +1,6 @@
 # VASP output files
 CHG
 CHGCAR
-OUTCAR
 XDATCAR
 vasprun.xml
 
