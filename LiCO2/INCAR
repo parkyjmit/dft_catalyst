@@ -25,7 +25,7 @@ MAGMOM = 1*0.0  2*0.0  1*0.0
  NSW    =     1000     (Max ionic steps)
  NBLOCK =      1     (Update XDATCAR every X steps)
  IBRION =      2     (Algorithm: 2-CG)
- ISIF   =      3     (Stress/relaxation: 2-Ions, 3-Shape/Ions/V)
+ ISIF   =      2     (Stress/relaxation: 2-Ions, 3-Shape/Ions/V)
  ISYM   =      0     (Symmetry: 0=none)
  ISMEAR =      0     (Gaussian smearing)
  SIGMA  =      0.05  (Smearing value in eV)
