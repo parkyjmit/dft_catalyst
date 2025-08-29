@@ -1,8 +1,8 @@
 # VASP output files
-CHG
-CHGCAR
-XDATCAR
-vasprun.xml
+*/CHG
+*/CHGCAR
+*/XDATCAR
+*/vasprun.xml
 
 # 토큰 영수증 같은 로그성 파일
 *.token_receipt.*
