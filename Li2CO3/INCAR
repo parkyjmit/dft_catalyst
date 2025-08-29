@@ -15,7 +15,7 @@ MAGMOM = 2*0.0  1*0.0  3*0.0
  LREAL = Auto       (Projection operators: automatic)
  ALGO  = Fast       (SCF minimisation algorithm; 38/48 combo)
  ENCUT = 520        (Plane-wave cutoff, ensure >=1.3*ENMAX)
- NELM  = 100         (Max SCF steps)
+ NELM  = 200         (Max SCF steps)
  NELMIN = 5         (Min SCF steps)
  EDIFF = 1E-06      (SCF energy convergence; eV)
  ISPIN = 2          (Spin polarised DFT)
