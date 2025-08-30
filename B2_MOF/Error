@@ -1,0 +1,171 @@
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B093BC38710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002B09FC5E6429  mkl_blas_avx2_dge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B4B283A8710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002B4BE8D6781A  mkl_blas_avx2_dge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AEBDB49F710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002AEC9BE59FBA  mkl_blas_avx2_dge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B44D9C97710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002B459A652013  mkl_blas_avx2_dge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B7C0A191710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002B7CCAB584D0  mkl_blas_avx2_dge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B5ED2B57710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002B5F9351266D  mkl_blas_avx2_dge     Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B1ED857B710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002B1F9B60559E  mkl_dft_avx2_owns     Unknown  Unknown
+libmkl_avx2.so     00002B1F9B637A25  mkl_dft_avx2_owns     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B32FECCF710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002B33BF392634  mkl_blas_avx2_xdc     Unknown  Unknown
+libmkl_avx2.so     00002B33BF3E8A83  mkl_blas_avx2_xzc     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B2E5CDC8710  Unknown               Unknown  Unknown
+vasp_std           0000000000603602  Unknown               Unknown  Unknown
+vasp_std           0000000000610DC6  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AE2CACC0710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002AE38B383634  mkl_blas_avx2_xdc     Unknown  Unknown
+libmkl_avx2.so     00002AE38B3D9A83  mkl_blas_avx2_xzc     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AB448635710  Unknown               Unknown  Unknown
+vasp_std           0000000000603602  Unknown               Unknown  Unknown
+vasp_std           0000000000610DC6  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B76264B4710  Unknown               Unknown  Unknown
+vasp_std           0000000000603602  Unknown               Unknown  Unknown
+vasp_std           0000000000610DC6  Unknown               Unknown  Unknown
+vasp_std           0000000000DD3010  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002ACB86589710  Unknown               Unknown  Unknown
+vasp_std           0000000000603602  Unknown               Unknown  Unknown
+vasp_std           0000000000610DC6  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AC25EAF6710  Unknown               Unknown  Unknown
+vasp_std           0000000000603602  Unknown               Unknown  Unknown
+vasp_std           0000000000610DC6  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AC384CB6710  Unknown               Unknown  Unknown
+vasp_std           0000000000603632  Unknown               Unknown  Unknown
+vasp_std           0000000000610DC6  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B946A139710  Unknown               Unknown  Unknown
+vasp_std           0000000000603602  Unknown               Unknown  Unknown
+vasp_std           0000000000610DC6  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B46785B2710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002B4738C75634  mkl_blas_avx2_xdc     Unknown  Unknown
+libmkl_avx2.so     00002B4738CCBA83  mkl_blas_avx2_xzc     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B07328C1710  Unknown               Unknown  Unknown
+vasp_std           0000000000603602  Unknown               Unknown  Unknown
+vasp_std           0000000000610DC6  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AF0EEB0A710  Unknown               Unknown  Unknown
+libmkl_avx2.so     00002AF1AF1CD634  mkl_blas_avx2_xdc     Unknown  Unknown
+libmkl_avx2.so     00002AF1AF223A83  mkl_blas_avx2_xzc     Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B265A095710  Unknown               Unknown  Unknown
+vasp_std           0000000000603624  Unknown               Unknown  Unknown
+vasp_std           0000000000610DC6  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B6190B36710  Unknown               Unknown  Unknown
+vasp_std           0000000000603602  Unknown               Unknown  Unknown
+vasp_std           0000000000610DC6  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002ABDFF73B710  Unknown               Unknown  Unknown
+vasp_std           0000000000603602  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AC58B12C710  Unknown               Unknown  Unknown
+vasp_std           0000000000603602  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B2FB0D36710  Unknown               Unknown  Unknown
+
+Stack trace terminated abnormally.
