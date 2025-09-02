@@ -1,151 +1,48 @@
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B1511DAC710  Unknown               Unknown  Unknown
-libmkl_avx2.so     00002B15D24D9117  mkl_blas_avx2_xda     Unknown  Unknown
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B44D1BE6710  Unknown               Unknown  Unknown
-vasp_std           0000000000620FE0  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002AF6EED2A710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B18A2A5E710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B8373CE9710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002AF80350F710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B842CACD710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B354C211710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B75A41E6710  Unknown               Unknown  Unknown
-vasp_std           0000000000620FD5  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B9C24318710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002AB3B7144710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B60378F0710  Unknown               Unknown  Unknown
-vasp_std           0000000000620FEF  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002AC9BA8D8710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002AEAB79EF710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B8145A48710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002ADA8E336710  Unknown               Unknown  Unknown
-vasp_std           0000000000620FEF  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B2E69FE8710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002AD35B9CA710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002AC7CFA30710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B5C85C48710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002AD3BBD09710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002B7F84F38710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002BA897D4D710  Unknown               Unknown  Unknown
-
-Stack trace terminated abnormally.
-forrtl: error (78): process killed (SIGTERM)
-Image              PC                Routine            Line        Source             
-vasp_std           000000000140E644  Unknown               Unknown  Unknown
-libpthread-2.12.s  00002AC5F052C710  Unknown               Unknown  Unknown
-libmkl_avx2.so     00002AC6B15C2E10  mkl_dft_avx2_coDF     Unknown  Unknown
-libmkl_avx2.so     00002AC6B156F6C7  Unknown               Unknown  Unknown
-libmkl_intel_lp64  00002AC5E78AFE98  DftiComputeBackwa     Unknown  Unknown
-libmkl_intel_lp64  00002AC5E78B64BF  fftw_execute_dft      Unknown  Unknown
-
-Stack trace terminated abnormally.
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+           1
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+ ERROR in EDDIAG: call to ZHEEV/ZHEEVX/DSYEV/DSYEVX failed! error code was 
+           1
+           1
