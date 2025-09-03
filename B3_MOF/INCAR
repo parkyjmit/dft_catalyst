@@ -13,7 +13,7 @@ MAGMOM = 54*0.0  67*0.0  16*0.0  18*3.0  3*0.0
 #Electronic Relaxation:
  PREC  = Accurate   (Precision level)
  LREAL = Auto       (Projection operators: automatic)
- ALGO  = Fast       (SCF minimisation algorithm; 38/48 combo)
+ ALGO  = Normal       (SCF minimisation algorithm; 38/48 combo)
  ENCUT = 520        (Plane-wave cutoff, ensure >=1.3*ENMAX)
  NELM  = 120         (Max SCF steps)
  NELMIN = 5         (Min SCF steps)
