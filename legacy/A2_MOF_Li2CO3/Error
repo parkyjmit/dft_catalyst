@@ -1,0 +1,120 @@
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B3757847710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AD5B6618710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AEEBB549710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AE2DC325710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B03D83A3710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B19AC6E0710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B05E4DF3710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B02339CC710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B2B93D69710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B31CEB16710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B18DBDE2710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002AD958F68710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B0D47889710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B8589AA2710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B9EF5641710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B81C17AD710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B99E31AC710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B9EBC09B710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B2ED02F6710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B55A5AB2710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B3A08685710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B7AB3D08710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B78DF5CD710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+vasp_std           000000000140E644  Unknown               Unknown  Unknown
+libpthread-2.12.s  00002B96262BF710  Unknown               Unknown  Unknown
+vasp_std           000000000140E090  Unknown               Unknown  Unknown

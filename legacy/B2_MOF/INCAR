@@ -1,0 +1,34 @@
+SYSTEM = Co–organic framework  
+MAGMOM = 52*0.0  66*0.0  16*0.0  18*3.0  2*0.0
+
+#Initialization:
+ LWAVE  =   .FALSE.
+ LCHARG =   .TRUE.
+
+#Parallelisation:
+ NCORE   = 4
+ #NPAR   = 4      (Max is no. nodes; don't set for hybrids)
+ #KPAR   = 2      (Divides k-grid into separate groups)
+
+#Electronic Relaxation:
+ PREC  = Accurate   (Precision level)
+ LREAL = Auto       (Projection operators: automatic)
+ ALGO  = Fast       (SCF minimisation algorithm; 38/48 combo)
+ ENCUT = 520        (Plane-wave cutoff, ensure >=1.3*ENMAX)
+ NELM  = 120         (Max SCF steps)
+ NELMIN = 5         (Min SCF steps)
+ EDIFF = 1E-06      (SCF energy convergence; eV)
+ ISPIN = 2          (Spin polarised DFT)
+
+#Ionic Relaxation:
+ EDIFFG =  -0.005    (Ionic convergence; eV/AA)
+ NSW    =     1000     (Max ionic steps)
+ NBLOCK =      1     (Update XDATCAR every X steps)
+ IBRION =      2     (Algorithm: 2-CG)
+ ISIF   =      2     (Stress/relaxation: 2-Ions, 3-Shape/Ions/V)
+ ISYM   =      0     (Symmetry: 0=none)
+ ISMEAR =      0     (Gaussian smearing)
+ SIGMA  =      0.05  (Smearing value in eV)
+
+#DFT-D correction
+ IVDW = 11   (11 = D3-zero damping; 12 = D3(BJ))

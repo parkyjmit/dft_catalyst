@@ -1,0 +1,24 @@
+#!/bin/sh
+#PBS -N B3_MOF
+#PBS -q full
+### Output files
+#PBS -e Error
+#PBS -o Logfile
+### Mail to user
+###PBS -m e -M noname
+#PBS -m e -M noname
+### Number of nodes
+#PBS -l walltime=500:00:00
+#PBS -l nodes=1:ppn=24:full
+
+
+#EXE="/home/sangsoo/bin/lmp_9Dec14_i13_atc_awpmd_meam_poems_reax"
+EXE="/usr/local/vasp-5.4.4/bin_vtst_VASPsol_i19u3_impi_noscal/vasp_std"
+
+NUMBER=`cat $PBS_NODEFILE | wc -l`
+cd $PBS_O_WORKDIR
+
+mpirun -machinefile $PBS_NODEFILE -np $NUMBER $EXE > log
+
+exit 0
+
