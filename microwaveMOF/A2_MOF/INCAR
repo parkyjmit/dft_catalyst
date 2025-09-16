@@ -21,7 +21,7 @@ MAGMOM = 58*0.0  74*0.0  18*0.0  18*3.0  2*0.0
  ISPIN = 2          (Spin polarised DFT)
 
 #Ionic Relaxation:
- EDIFFG =  -0.005    (Ionic convergence; eV/AA)
+ EDIFFG =  -0.02    (Ionic convergence; eV/AA)
  NSW    =     1000     (Max ionic steps)
  NBLOCK =      1     (Update XDATCAR every X steps)
  IBRION =      2     (Algorithm: 2-CG)
