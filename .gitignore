@@ -3,6 +3,22 @@
 */CHGCAR
 */XDATCAR
 */vasprun.xml
+WAVECAR*
+CHGCAR*
+CHG*
+PROCAR*
+DOSCAR*
+EIGENVAL*
+OUTCAR*
+vasprun.xml*
+XDATCAR*
+PCDAT*
+LOCPOT*
+IBZKPT*
+OSZICAR*
+REPORT*
+PROOUT*
+
 
 # 토큰 영수증 같은 로그성 파일
 *.token_receipt.*
